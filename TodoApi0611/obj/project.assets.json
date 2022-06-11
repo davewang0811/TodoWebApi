@@ -215,11 +215,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TPI\\source\\repos\\TodoApi0611\\TodoApi0611\\TodoApi0611.csproj",
+      "projectUniqueName": "C:\\Users\\TPI\\Documents\\TodoWebApi\\TodoApi0611\\TodoApi0611.csproj",
       "projectName": "TodoApi0611",
-      "projectPath": "C:\\Users\\TPI\\source\\repos\\TodoApi0611\\TodoApi0611\\TodoApi0611.csproj",
+      "projectPath": "C:\\Users\\TPI\\Documents\\TodoWebApi\\TodoApi0611\\TodoApi0611.csproj",
       "packagesPath": "C:\\Users\\TPI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TPI\\source\\repos\\TodoApi0611\\TodoApi0611\\obj\\",
+      "outputPath": "C:\\Users\\TPI\\Documents\\TodoWebApi\\TodoApi0611\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
