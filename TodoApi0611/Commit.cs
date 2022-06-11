@@ -2,5 +2,6 @@
 {
     public class Commit
     {
+        string commit1 { get; set; }
     }
 }
