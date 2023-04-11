@@ -1,0 +1,16 @@
+C:\Users\TPI\Documents\TodoWebApi\TestTask\bin\Debug\net5.0\TestTask.exe
+C:\Users\TPI\Documents\TodoWebApi\TestTask\bin\Debug\net5.0\TestTask.deps.json
+C:\Users\TPI\Documents\TodoWebApi\TestTask\bin\Debug\net5.0\TestTask.runtimeconfig.json
+C:\Users\TPI\Documents\TodoWebApi\TestTask\bin\Debug\net5.0\TestTask.runtimeconfig.dev.json
+C:\Users\TPI\Documents\TodoWebApi\TestTask\bin\Debug\net5.0\TestTask.dll
+C:\Users\TPI\Documents\TodoWebApi\TestTask\bin\Debug\net5.0\TestTask.pdb
+C:\Users\TPI\Documents\TodoWebApi\TestTask\obj\Debug\net5.0\TestTask.csproj.AssemblyReference.cache
+C:\Users\TPI\Documents\TodoWebApi\TestTask\obj\Debug\net5.0\TestTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TPI\Documents\TodoWebApi\TestTask\obj\Debug\net5.0\TestTask.AssemblyInfoInputs.cache
+C:\Users\TPI\Documents\TodoWebApi\TestTask\obj\Debug\net5.0\TestTask.AssemblyInfo.cs
+C:\Users\TPI\Documents\TodoWebApi\TestTask\obj\Debug\net5.0\TestTask.csproj.CoreCompileInputs.cache
+C:\Users\TPI\Documents\TodoWebApi\TestTask\obj\Debug\net5.0\TestTask.dll
+C:\Users\TPI\Documents\TodoWebApi\TestTask\obj\Debug\net5.0\refint\TestTask.dll
+C:\Users\TPI\Documents\TodoWebApi\TestTask\obj\Debug\net5.0\TestTask.pdb
+C:\Users\TPI\Documents\TodoWebApi\TestTask\obj\Debug\net5.0\TestTask.genruntimeconfig.cache
+C:\Users\TPI\Documents\TodoWebApi\TestTask\obj\Debug\net5.0\ref\TestTask.dll

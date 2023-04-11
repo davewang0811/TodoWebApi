@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tG48RRK8JXOnZx11w6wzkAXpkkDo4tXofH86tKobThkmvOFjQ8bNw49eoSrfF8cK2JL8XJ3nW9gYwT8QGA5RoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TPI\\Documents\\TodoWebApi\\TestTask\\TestTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TPI\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
